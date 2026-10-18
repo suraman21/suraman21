@@ -1,39 +1,33 @@
-<h1 align="center">Hi, I'm Sura 👋</h1>
-<h3 align="center">Software Engineer · Full-Stack · Addis Ababa, Ethiopia 🇪🇹</h3>
+# Hi, I'm Sura 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20work-Software%20Engineer-success" alt="Open to work">
-  <img src="https://img.shields.io/badge/Location-Addis%20Ababa%2C%20Ethiopia-0E7490" alt="Location">
-</p>
+I'm a full-stack developer from Addis Ababa, Ethiopia. I enjoy building software from the ground up, whether it's a web application, a mobile app, or a complete system with its own API and database.
 
-I'm a full-stack software engineer who builds complete products end to end — from database schemas and APIs to web frontends and mobile apps. I focus on software that holds up in production: clean architecture, automated tests, CI, and security hardening.
+I care about writing code that's easy to maintain, testing things properly, and making sure projects are ready for real users, not just demos.
 
-> 📝 This is mainly a **development profile** — most of my repositories (client and production work) are kept **private**. I'm happy to walk through architecture, code, and decisions in interviews.
+Most of my client and production projects are private, but I'm always happy to discuss how I built them, the technical decisions I made, and the challenges I worked through.
 
-## What I do
+## 🛠️ What I work with
 
-**Backend** — PHP & Laravel, REST API design, MySQL schema design and migrations, authentication, role-based access control.
+- **Backend:** PHP, Laravel, REST APIs, MySQL, database design, authentication and permissions.
+- **Frontend:** JavaScript, TypeScript, React, Tailwind CSS, GSAP and Three.js.
+- **Mobile:** Flutter, Dart, offline-first apps, local data storage and background synchronization.
+- **Testing & Security:** Automated testing, Playwright, CI/CD with GitHub Actions, API security and OWASP guidelines.
 
-**Frontend** — TypeScript & React, Tailwind CSS, animation and 3D interfaces (GSAP, Three.js), responsive and accessible UI.
+## 🚀 Projects I've worked on
 
-**Mobile** — Flutter / Dart, offline-first sync, background data handling, biometric and PIN app security.
+- **School Management System** — A production system with a web admin panel, REST API and Flutter mobile app. I've worked on offline functionality, data synchronization, automated testing and security improvements.
+- **E-commerce Websites** — Online stores with product pages, admin dashboards and payment integration.
+- **Clinic Website** — A modern React and TypeScript website with interactive 3D elements and animations.
+- **Hotel Booking Website** — A website for showcasing rooms, browsing galleries and handling booking requests.
+- **Rental Store Website** — A storefront for displaying rental products and services.
+- **Other Client Projects** — Restaurant digital menus, business websites, portfolios and event websites.
 
-**Engineering quality** — automated testing (unit, end-to-end, security), GitHub Actions CI, security hardening (OWASP Top 10 / ASVS), documentation and release workflows.
+## 💻 Technologies I use
 
-## Selected work
+`PHP` `Laravel` `TypeScript` `React` `Flutter` `Dart` `MySQL` `Tailwind CSS` `Three.js` `GSAP` `Playwright` `pytest` `GitHub Actions` `Vercel`
 
-- **School management platform** (production) — web admin, REST API, and a Flutter mobile app with offline sync; automated test suites and security hardening
-- **E-commerce web applications** — storefronts, admin dashboards, and payment integration
-- **Clinic website** — premium React/TypeScript build with 3D and animation
-- **Hotel booking website** — rooms, gallery, and booking flow
-- **Rental store website** — modern rental storefront
-- **Additional client web apps** — restaurant digital menus, portfolio and event sites, business websites
+## 📫 Get in touch
 
-## Tech
-
-`PHP` `Laravel` `TypeScript` `React` `Flutter` `Dart` `MySQL` `Tailwind CSS` `Three.js` `Firebase` `Playwright` `pytest` `GitHub Actions` `Vercel`
-
-## Contact
-
-- ✉️ **suraemu21@gmail.com**
-- 🌍 Addis Ababa, Ethiopia — open to software engineering roles (remote & hybrid)
+- **Email:** [suraemu21@gmail.com](mailto:suraemu21@gmail.com)
+- **Location:** Addis Ababa, Ethiopia
+- **Opportunities:** Open to remote and hybrid software engineering roles.
